@@ -1,10 +1,20 @@
+# 💼 My Developer Portfolio
 
-A collection of full-stack web applications built using MongoDB, Express.js, React, and Node.js. Projects include e-commerce platforms, task management tools, and social media apps—featuring responsive UI/UX, RESTful APIs, secure authentication, and cloud deployment.
+Hi! I'm Bimal Chaudhary, a passionate **Web Developer** with experience in building modern, responsive, and user-friendly websites and web applications.
 
-Highlights:
-• Frontend: React + Redux / Context API
-• Backend: Node.js + Express
-• Database: MongoDB (Mongoose)
-• Auth: JWT, OAuth
-• Deployment: Vercel / Netlify / Heroku
-• Tools: Git, Docker, CI/CD
+## 🚀 Skills
+
+- 🌐 Frontend: HTML, CSS, JavaScript, React.js, Next.js, Tailwind CSS
+- 🛠️ Backend: Node.js, Express.js, MongoDB
+- 🧪 Testing: Jest, React Testing Library
+- ⚙️ Tools: Git, GitHub, VS Code, Postman
+
+## 📫 Contact Me
+
+- 📧 Email: your.email@example.com  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
+
+---
+
+Thanks for checking out my work! Feel free to connect or collaborate.
