@@ -11,8 +11,8 @@ Hi! I'm Bimal Chaudhary, a passionate **Web Developer** with experience in build
 
 ## 📫 Contact Me
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
+- 📧 Email: bimalchaudhary014@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/yourusername](https://www.linkedin.com/in/bimalchaudhary/)  
 - 🌐 Portfolio: [your-portfolio-url.com](https://your-portfolio-url.com)
 
 ---
